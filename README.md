@@ -2,7 +2,7 @@ import requests
 
 # ====== НАСТРОЙКИ CONTRA-SENTIMENT AI ======
 # Вставь свой секретный ключ из BotFather вместо текста ниже (кавычки оставь!):
-TELEGRAM_TOKEN = "СЮДА_ВСТАВЬ_ДЛИННЫЙ_ТОКЕН_ИЗ_BOTFATHER"
+TELEGRAM_TOKEN = "8991858267:AAFvWFDYxg-dn9ZJ534aIeXezG8qXZ2dXFw"
 CHAT_ID = "6181831767"
 
 # Твоя квантовая матрица торговых коридоров
